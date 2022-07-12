@@ -3,17 +3,17 @@ using namespace std;
 
 int main(){
 
-    float len, width,  area, perimeter;
+    float len, breadth,  area, perimeter;
 
     cout << endl << "Enter the Length of Rectangle: ";
     cin >> len;
 
-    cout << endl << "Enter the Width of Rectangle: ";
-    cin >> width;
+    cout << endl << "Enter the breadth of Rectangle: ";
+    cin >> breadth;
 
-    area = len * width;
+    area = len * breadth;
 
-    perimeter = 2 * (len + width);
+    perimeter = 2 * (len + breadth);
 
     cout << endl << "Area of the Rectabgle: " << area;
 
