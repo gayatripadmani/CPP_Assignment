@@ -1,11 +1,5 @@
-Branch --
+Nested Loop
 
-Basic of program of cpp
+WAP to check if the entered no is armstrong or not.
 
-Decision Struct
-
-loops
-
-Exercise-2_Let Us C by Yashwant Kanetkar
-
-nested loop ex
+WAP to print perfect no from 1 to 100.
