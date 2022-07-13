@@ -1,7 +1,7 @@
-Branch --
+Exercise topic -- 
 
-Basic of program of cpp
+If, Nested If, If else
 
-Decision Struct
+Logical Operator
 
-loops
+Conditional Operator
