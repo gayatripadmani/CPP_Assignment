@@ -7,3 +7,5 @@ Decision Struct
 loops
 
 Exercise-2_Let Us C by Yashwant Kanetkar
+
+nested loop ex
