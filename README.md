@@ -1,4 +1,4 @@
-Nested Loop
+Nested Loop:
 
 WAP to check if the entered no is armstrong or not.
 
